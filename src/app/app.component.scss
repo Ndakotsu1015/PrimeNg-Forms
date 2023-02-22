@@ -1,0 +1,11 @@
+:host ::ng-deep p-menubar{
+    .blue-menu{
+            background: var(--blue-200);
+            color: var(--red-500);
+
+    }
+
+    p-menubar{
+        color: rgb(195, 188, 188);
+    }
+}
